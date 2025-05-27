@@ -17,8 +17,7 @@ A full-stack Event Listing Platform where users can find, save, and manage local
 
 ## Deployment
 
-- 🔗 Live URL (Frontend): [Add your Vercel frontend link here]
-- 🔗 Live URL (Backend): [Add your Vercel backend link here]
+- 🔗 Live URL (Frontend): https://event-listing-platforms.vercel.app/
 
 ## Setup Instructions
 
